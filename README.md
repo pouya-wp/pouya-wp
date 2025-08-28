@@ -58,13 +58,7 @@
 
 <br>
 
-### 🏆 GitHub Trophäen:
-<p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=pouya-wp&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="pouya-wp trophy" />
-</p>
 
----
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pouya-wp/pouya-wp/output/ocean.gif" alt="Ocean Snake Animation">
-</div>
