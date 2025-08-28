@@ -16,10 +16,8 @@
 <br>
 
 ### 🌐 Soziale Netzwerke:
-<p align="left">
-  <a href="https://linkedin.com/in/pouyasadeghpoor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://codepen.io/pouyasadeghpor" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"/></a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pouyasadeghpor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pouyasadeghpoor) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pouyasadeghpor) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pouyasadeghpor) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/pouyasadeghpor) 
+
 
 <br>
 
@@ -49,11 +47,11 @@
 
 ### 📊 GitHub Statistiken:
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pouya-wp&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true" alt="pouya-wp stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pouya-wp&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="pouya-wp stats" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouya-wp&layout=compact&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true" alt="pouya-wp top langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouya-wp&layout=compact&theme=radical&hide_border=flase&include_all_commits=true&count_private=true" alt="pouya-wp top langs" />
   <br><br>
-  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=pouya-wp&theme=graywhite&hide_border=true" alt="pouya-wp streak" />
+  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=pouya-wp&theme=radical&hide_border=false" alt="pouya-wp streak" />
 </p>
 
 <br>
