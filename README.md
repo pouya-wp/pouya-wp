@@ -1,27 +1,26 @@
 <div align="center">
-  <h1 align="center">Hi 👋, ich bin Pouya Sadeghpoor</h1>
-  <h3 align="center">Leidenschaftlicher Frontend-Entwickler und 3D-Künstler.</h3>
+  <h1 align="center">Hi 👋, I'm Pouya Sadeghpoor</h1>
+  <h3 align="center">Creative Frontend Developer & 3D Visual Artist</h3>
 </div>
 
 ---
 
-### 💫 Über mich:
-- 🔭 Aktuell arbeite ich an **Aura, einer Restaurant-Website mit 3D-Menü, und dem Grand Restaurant Projekt.**
-- 🌱 Aktuell lerne ich **Flutter, GraphQL, Gsap, FramerMotion und Three.js.**
-- 💬 Frag mich nach **React, Next.js, Vite.js, pnpm und Git.**
-- 📫 So erreichst du mich: **pwyasadqpwr3@gmail.com**
-- 📄 Mein Lebenslauf: **<a href="https://resome.link/">Hier klicken</a>**
-- ⚡ Fun Fact: **Treffen sich zwei Magnete. Sagt der eine: "Was soll ich heute nur anziehen?"**
+### 💫 About Me:
+- 🔭 Currently working on **Aura (3D Menu Experience) and the Grand Restaurant Project.**
+- 🌱 Mastering **Flutter, GraphQL, GSAP, Framer Motion, and Three.js.**
+- 💬 Ask me about **React, Next.js, Vite, pnpm, and Git.**
+- 📫 Reach me at: **pwyasadqpwr3@gmail.com**
+- 📄 My Resume: **<a href="https://portfolio-brown-tau-86.vercel.app/">Click Here</a>**
+- ⚡ Fun Fact: **Two magnets meet. One says: "I don't know what to wear today, I'm feeling a bit attractive."**
 
 <br>
 
-### 🌐 Soziale Netzwerke:
+### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pouyasadeghpor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pouyasadeghpoor) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pouyasadeghpor) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pouyasadeghpor) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/pouyasadeghpor) 
 
-
 <br>
 
-### 💻 Technologien & Werkzeuge:
+### 💻 Tech Stack & Tools:
 <p align="left">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
@@ -45,18 +44,16 @@
 
 <br>
 
-### 📊 GitHub Statistiken:
+### 📊 GitHub Stats:
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pouya-wp&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="pouya-wp stats" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouya-wp&layout=compact&theme=radical&hide_border=flase&include_all_commits=true&count_private=true" alt="pouya-wp top langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouya-wp&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="pouya-wp top langs" />
   <br><br>
   <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=pouya-wp&theme=radical&hide_border=false" alt="pouya-wp streak" />
 </p>
 
 <br>
 
-
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=flase)
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=false)
