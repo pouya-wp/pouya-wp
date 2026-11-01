@@ -1,59 +1,56 @@
 <div align="center">
-  <h1 align="center">Hi 👋, I'm Pouya Sadeghpoor</h1>
-  <h3 align="center">Creative Frontend Developer & 3D Visual Artist</h3>
+  <h1 align="center">Hi 👋, I'm Pouya Sadeghpour</h1>
+  <h3 align="center">Creative Systems & Frontend Engineer • 3D Visual & Motion Artist</h3>
+  <p align="center">
+    Crafting high-performance systems, GPU-accelerated desktop tools, and interactive 3D web experiences.
+  </p>
 </div>
 
 ---
 
-### 💫 About Me:
-- 🔭 Currently working on **Aura (3D Menu Experience) and the Grand Restaurant Project.**
-- 🌱 Mastering **Flutter, GraphQL, GSAP, Framer Motion, and Three.js.**
-- 💬 Ask me about **React, Next.js, Vite, pnpm, and Git.**
-- 📫 Reach me at: **pwyasadqpwr3@gmail.com**
-- 📄 My Resume: **<a href="https://portfolio-brown-tau-86.vercel.app/">Click Here</a>**
-- ⚡ Fun Fact: **Two magnets meet. One says: "I don't know what to wear today, I'm feeling a bit attractive."**
+### 🚀 Featured Projects
 
-<br>
+| Project | Tech Stack | Highlights |
+|:---|:---|:---|
+| ⚡ **[Streak](https://github.com/pouya-wp/streak)** | Rust, Direct3D 11, DirectComposition, egui | Real-time GPU cursor motion blur, ribbon trails, and sub-frame physics on Windows |
+| 💎 **[Portfolio](https://github.com/pouya-wp/pouya-portfolio)** | Next.js 15, Three.js, GSAP, WebGL2 | 7-act luxury WebGL portfolio with obsidian fracture physics and procedural soundscape |
+| ☁️ **[Teldrive Desktop](https://github.com/pouya-wp/teldrive-desktop)** | Tauri 2, Rust, React, Vite | Native Windows client orchestrating Teldrive unlimited cloud storage with tray controls |
+| 🍎 **[SFORCE](https://github.com/pouya-wp/sforce)** | .NET 10, C#, WPF, Manifest V3 | System-wide Apple SF Pro & SF Arabic typography enforcer with registry snapshots |
+| ⚡ **[Kinetix](https://github.com/pouya-wp/kinetix)** | TypeScript, Matter.js, Vite, CEP | After Effects 2D physics simulation, text morphing, and 350+ curated motion SFX |
+| ✦ **[Lumi](https://github.com/pouya-wp/lumi)** | Flutter, Node.js, Yjs CRDTs, Fastify | Cross-platform collaborative team workspace, Notion-style docs, and sprint engines |
+| 📬 **[MailPilot Panel](https://github.com/pouya-wp/mailpilot-panel)** | React, FastAPI, Python 3.11, Tailwind | Smart outbound email campaign engine with automated A/B testing and DNS health checks |
+| ✨ **[Atelier Intelligence](https://github.com/pouya-wp/atelier-intelligence)** | Three.js, Vite, Tailwind CSS | Luxury gold atelier management dashboard with studio HDRI 3D bullion and AI agents |
 
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pouyasadeghpor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pouyasadeghpoor) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pouyasadeghpor) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pouyasadeghpor) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/pouyasadeghpor) 
+---
 
-<br>
+### 💻 Tech Stack & Tooling
 
-### 💻 Tech Stack & Tools:
 <p align="left">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-    <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-    <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop"/>
-    <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
-    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro"/>
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black" alt="Rust"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
+  <img src="https://img.shields.io/badge/Tauri_v2-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/DirectX_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="DirectX"/>
 </p>
 
-<br>
+---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pouya-wp&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="pouya-wp stats" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouya-wp&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="pouya-wp top langs" />
-  <br><br>
-  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=pouya-wp&theme=radical&hide_border=false" alt="pouya-wp streak" />
-</p>
+### 🌐 Connect With Me
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pouyasadeghpoor) 
+[![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pouyasadeghpor) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pouyasadeghpor) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pouyasadeghpor)
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=false)
+---
+
+<div align="center">
+  <sub>Crafted with precision & passion by <b><a href="https://github.com/pouya-wp">Pouya Sadeghpour</a></b></sub>
+</div>
